@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Data"
-date:   2022-03-06 
-author: Agnese Beltramo
+date:   2022-03-10 
+author: Nandi Moksnes
 category: Open Science
-tags: metadata, referencing, attribution, release, licensing, version control, workflow
+tags: preregistration, qualtitiative studies
 ---
 
 <div style="text-align: justify">
