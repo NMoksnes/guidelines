@@ -8,7 +8,11 @@ tags: preregistration, qualtitiative studies
 ---
 
 ## Preregistration of qualitative studies
-When working on qualitative research a preregistration is promoted to ensure transparency, reproducibility and quality of the study [[1]]. A preregistration means that the researcher describes the research plan which will be undertake and analysis before starting the study. This includes basic information such as study aims, type of data collection, tools used in the study and analysis approach. The preregistration should be using standarized [forms, (e.g. any of these listed in Huebner et al. 2021)](https://journal-buildingscities.org/articles/10.5334/bc.67/#T1n) and registered *before* starting the research.
+When working on qualitative research, the preregistration of research protocols is recommended to ensure transparency, reproducibility and quality of the study [[1]]. A preregistration of research protocols means that the researcher describes the research plan which will be undertaken and the type of analysis that are intended to be performed, before starting the study. This includes basic information such as study aims, type of data collection, tools used in the study and analysis approach. The preregistration should be using standardised forms and registered *before* starting the research. 
+
+Here there are some examples of generic preregistration forms that are applicable across different disciplines, as suggested by [Huebner et al. (2021)](https://journal-buildingscities.org/articles/10.5334/bc.67/#T1n):
+- [OSF Prereg](https://osf.io/prereg/)
+- [AsPredicted Preregistration](https://aspredicted.org/)
 
 A preregistration makes the study less susceptible to bias (intentionally or unintentionally) as the analysis and expectations of the results can not be adjusted to fit the data. Furthermore, will a preregistration help to plan the study details and getting early input on the research.
 
