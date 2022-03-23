@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Data"
-date:   2022-03-10 
+title:  "Preregistration of qualitative studies"
+date:   2022-03-23
 author: Nandi Moksnes
-category: Open Science
+category: Practice
 tags: preregistration, qualtitiative studies
 ---
 
-<div style="text-align: justify">
-
 ## Preregistration of qualitative studies
+When working on qualitative research a preregistration is promoted to ensure transparency, reproducibility and quality of the study [[1]]. A preregistration means that the researcher describes the research plan which will be undertake and analysis before starting the study. This includes basic information such as study aims, type of data collection, tools used in the study and analysis approach. The preregistration should be using standarized [forms, (e.g. any of these listed in Huebner et al. 2021)](https://journal-buildingscities.org/articles/10.5334/bc.67/#T1n) and registered *before* starting the research.
 
-ibsim
+A preregistration makes the study less susceptible to bias (intentionally or unintentionally) as the analysis and expectations of the results can not be adjusted to fit the data. Furthermore, will a preregistration help to plan the study details and getting early input on the research.
 
-[1]: <https://docs.google.com/presentation/d/1nujmtGu6SpQg_dn918AXTgwok6kCynY_/edit#slide=id.p4> "Viitanen E., 2022. Introduction to Research Data Management(RDM). *Aalto University*, Finland: Aalto. Available at: https://www.aalto.fi/en/services/training-in-research-data-management-and-open-science. (accessed: March 07, 2022)"
+------------
+*This material is derived from the [CCG review of good enough practices][2], released under a [CC-BY 4.0 license][3].*
 
-[2]: <https://direct.mit.edu/dint/article/2/1-2/108/10003/FAIR-Computational-Workflows> "Goble, C., Cohen-Boulakia, S., Soiland-Reyes, S., Garijo, D., Gil, Y., Crusoe, M.R., Peters, K., Schober, D., 2020. FAIR Computational Workflows, *Data Intelligence*, vol. 2, no. 1–2, 1135 pp. 108–121. DOI: 10.1162/dint_a_00033."
+[1]: <https://journal-buildingscities.org/articles/10.5334/bc.67/> "G. M. Huebner, M. J. Fell, and N. E. Watson, ‘Improving energy research practices: 1067 guidance for transparency, reproducibility and quality’, Buildings and Cities, vol. 2, 1068 no. 1, pp. 1–20, Jan. 2021, doi: 10.5334/bc.67." 
 
-</div>
+
