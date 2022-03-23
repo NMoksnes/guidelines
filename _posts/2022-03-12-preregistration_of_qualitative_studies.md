@@ -14,7 +14,7 @@ Here there are some examples of generic preregistration forms that are applicabl
 - [OSF Prereg](https://osf.io/prereg/)
 - [AsPredicted Preregistration](https://aspredicted.org/)
 
-A preregistration makes the study less susceptible to bias (intentionally or unintentionally) as the analysis and expectations of the results can not be adjusted to fit the data. Furthermore, will a preregistration help to plan the study details and getting early input on the research.
+A preregistration makes the study less susceptible to bias (whether it is intentional or unintentional) as the analysis can not be adjusted to fit the collected data. Furthermore, a preregistration helps to plan the study details and getting early input on the research, thus potentially enhancing the quality of the research conducted.
 
 ------------
 *This material is derived from the [CCG review of good enough practices][2], released under a [CC-BY 4.0 license][3].*
