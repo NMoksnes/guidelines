@@ -16,5 +16,5 @@ A preregistration makes the study less susceptible to bias (intentionally or uni
 *This material is derived from the [CCG review of good enough practices][2], released under a [CC-BY 4.0 license][3].*
 
 [1]: <https://journal-buildingscities.org/articles/10.5334/bc.67/> "G. M. Huebner, M. J. Fell, and N. E. Watson, ‘Improving energy research practices: 1067 guidance for transparency, reproducibility and quality’, Buildings and Cities, vol. 2, 1068 no. 1, pp. 1–20, Jan. 2021, doi: 10.5334/bc.67." 
-
+[2]: https://zenodo.org/record/5911546#.YjsSSRDMI-R "Usher, William, Beltramo, Agnese, Gardumi, Francesco, Martin, Viktoria, & Petrarulo, Luca. (2022). CCG Platform - Body of Knowledge: Review of Good Practice (1.3). Zenodo. https://doi.org/10.5281/zenodo.5911546"
 
